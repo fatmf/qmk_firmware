@@ -8,10 +8,15 @@ I use KBFirmware JSON to QMK Parser to create local files with a few edit https:
 This deafult keymap should work as:
 
 ESC key ---> ESC
+
 Shift + ESC ---> ~ (tilde)
+
 Caps lock + ESC ---> ` (grave key)
+
 Left Alt + ESC ---> Toggle IME (Alt+`)
+
 Reference
+
 BM60 is a KReblublic PCB and it has their own firmware for regular use.
 
 https://kprepublic.com/collections/new-arrival/products/bm60-rgb-60-gh60-hot-swappable-pcb-programmed-qmk-firmware-type-c?variant=31629690699869
