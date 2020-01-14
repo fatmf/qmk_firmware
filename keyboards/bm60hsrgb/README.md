@@ -1,7 +1,7 @@
 BM60HSrgb
 
-You don't need to use this unless you need "kc_gesc" or other advabced keycode.
-This repo is to provide ESC/~ (kc_gesc) in your keymap for BM60.
+You don't need to use this unless you need "kc_gesc" or other advanced keycode.
+This is to provide ESC/~ (kc_gesc) in your keymap for BM60.
 
 I use KBFirmware JSON to QMK Parser to create local files with a few edit https://noroadsleft.github.io/kbf_qmk_converter/
 
